@@ -1,0 +1,7 @@
+2019-05-22 07:31:56 - Basic Project Compiled, ng test and ng e2e passed.
+2019-05-26 07:56:17 - Custom Pipe Implemented for Decimal to Binary Conversion
+2019-05-26 07:57:29 - Implemented bindings (interpolation, event and two way binding)
+2019-05-26 07:56:55 - Performed Styling using bootstrap. [jumbotron, alignment, cards, horizontal rule, button, grid]
+2019-05-26 07:58:07 - E2E basic test using protractor
+2019-05-26 11:00:05 - Added configuration for Unit test debugging (issue was with sourceMapping -- solved by adding "webpack:/*": "${webRoot}/*" )
+2019-05-26 11:01:23 - Completed Unit Testing for basic decimal to binary conversion.

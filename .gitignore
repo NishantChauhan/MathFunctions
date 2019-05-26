@@ -44,3 +44,7 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+src/assets/angular.ico
+src/assets/nishant.ico
+src/assets/261934-math-symbols.ico
+src/assets/261934-math-symbols.png
